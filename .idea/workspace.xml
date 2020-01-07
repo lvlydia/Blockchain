@@ -12,7 +12,77 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <splitter split-orientation="horizontal" split-proportion="0.39411765">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../Blockchain/dev/page/html/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="277">
+                  <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+                  <folding>
+                    <element signature="n#section#0;n#!!top" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                    <element signature="n#section#1;n#!!top" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+                    <element signature="n#section#2;n#!!top" />
+                    <element signature="n#section#4;n#!!top" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#!!top" expanded="true" />
+                    <element signature="n#div#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../Blockchain/dev/scss/index.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="572">
+                  <caret line="365" column="13" selection-start-line="365" selection-start-column="13" selection-end-line="365" selection-end-column="13" />
+                  <folding>
+                    <element signature="e#9#144#0" />
+                    <element signature="e#1035#1041#0" />
+                    <element signature="e#2076#3118#0" />
+                    <element signature="e#3144#4294#0" />
+                    <element signature="e#4389#4395#0" />
+                    <element signature="e#5064#6105#0" />
+                    <element signature="e#5818#6859#0" />
+                    <element signature="e#6571#7298#0" />
+                    <element signature="e#8655#8661#0" />
+                    <element signature="e#10238#11778#0" />
+                    <element signature="e#11822#13276#0" />
+                    <element signature="e#8623#11029#0" />
+                    <element signature="e#13067#16189#0" />
+                    <element signature="e#11170#11176#0" />
+                    <element signature="e#15416#15422#0" />
+                    <element signature="e#15957#16002#0" />
+                    <element signature="e#16024#16171#0" />
+                    <element signature="e#16196#16273#0" />
+                    <element signature="e#16305#16505#0" />
+                    <element signature="e#16536#16766#0" />
+                    <element signature="e#16799#16906#0" />
+                    <element signature="e#16986#17052#0" />
+                    <element signature="e#17147#17284#0" />
+                    <element signature="e#17305#17464#0" />
+                    <element signature="e#17486#17578#0" />
+                    <element signature="e#17606#17649#0" />
+                    <element signature="e#17804#17837#0" />
+                    <element signature="e#17941#18030#0" />
+                    <element signature="e#18084#18157#0" />
+                    <element signature="e#21292#21438#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,11 +98,19 @@
       <find>header-dispeared</find>
       <find>header-prepare</find>
       <find>header-fixed</find>
-      <find>.header-prepare</find>
       <find>nav-bar-icon &gt; span</find>
       <find>599</find>
+      <find>header</find>
+      <find>url</find>
       <find>logo</find>
+      <find>wrap-one</find>
+      <find>active</find>
+      <find>.header-prepare</find>
+      <find>three-details</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -57,38 +135,62 @@
         <option value="$PROJECT_DIR$/dev/js/index_s.js" />
         <option value="$PROJECT_DIR$/dev/scss/index.scss" />
         <option value="$PROJECT_DIR$/dev/scss/common_m.scss" />
+        <option value="$PROJECT_DIR$/../Blockchain/dev/scss/common_m.scss" />
+        <option value="$PROJECT_DIR$/../Blockchain/dev/page/template/head_bottom.html" />
+        <option value="$PROJECT_DIR$/../Blockchain/dev/page/template/head_top.html" />
+        <option value="$PROJECT_DIR$/../Blockchain/dev/page/template/head_link.html" />
+        <option value="$PROJECT_DIR$/../Blockchain/dev/page/html/index.html" />
+        <option value="$PROJECT_DIR$/../Blockchain/dev/scss/index.scss" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="45" />
-    <option name="y" value="23" />
-    <option name="width" value="2470" />
-    <option name="height" value="1415" />
+    <option name="x" value="89" />
+    <option name="y" value="40" />
+    <option name="width" value="2488" />
+    <option name="height" value="1417" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Chandao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chandao" type="462c0819:PsiDirectoryNode" />
+              <item name="Blockchain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blockchain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blockchain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blockchain" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blockchain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blockchain" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blockchain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blockchain" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/../Blockchain/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -108,13 +210,13 @@
     </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index">
-    <configuration name="index" type="JavascriptDebugType" uri="http://Chandao:63342/run/zh/index.html">
+    <configuration name="index" type="JavascriptDebugType" uri="http://Blockchain:63342/run/zh/index.html">
       <method v="2" />
     </configuration>
     <configuration name="ALL=&gt;compile" type="js.build_tools.gulp" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <gulpfile>$PROJECT_DIR$/../Blockchain/gulpfile.js</gulpfile>
       <tasks>
         <task>ALL=&gt;compile</task>
       </tasks>
@@ -122,12 +224,12 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="Js=&gt;merge" type="js.build_tools.gulp" temporary="true">
+    <configuration name="Html=&gt;compile" type="js.build_tools.gulp" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <gulpfile>$PROJECT_DIR$/../Blockchain/gulpfile.js</gulpfile>
       <tasks>
-        <task>Js=&gt;merge</task>
+        <task>Html=&gt;compile</task>
       </tasks>
       <arguments />
       <envs />
@@ -136,20 +238,9 @@
     <configuration name="Scss=&gt;compile" type="js.build_tools.gulp" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <gulpfile>$PROJECT_DIR$/../Blockchain/gulpfile.js</gulpfile>
       <tasks>
         <task>Scss=&gt;compile</task>
-      </tasks>
-      <arguments />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="Watch css/html" type="js.build_tools.gulp" temporary="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
-      <tasks>
-        <task>Watch css/html</task>
       </tasks>
       <arguments />
       <envs />
@@ -158,7 +249,7 @@
     <configuration name="ZIP" type="js.build_tools.gulp" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <gulpfile>$PROJECT_DIR$/../Blockchain/gulpfile.js</gulpfile>
       <tasks>
         <task>ZIP</task>
       </tasks>
@@ -175,21 +266,32 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="dev:livereload" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/../Blockchain/gulpfile.js</gulpfile>
+      <tasks>
+        <task>dev:livereload</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Gulp.js.ALL=&gt;compile" />
-      <item itemvalue="Gulp.js.Js=&gt;merge" />
-      <item itemvalue="Gulp.js.Watch css/html" />
-      <item itemvalue="Gulp.js.Scss=&gt;compile" />
-      <item itemvalue="Gulp.js.ZIP" />
       <item itemvalue="JavaScript Debug.index" />
+      <item itemvalue="Gulp.js.ALL=&gt;compile" />
+      <item itemvalue="Gulp.js.Scss=&gt;compile" />
+      <item itemvalue="Gulp.js.dev:livereload" />
+      <item itemvalue="Gulp.js.Html=&gt;compile" />
+      <item itemvalue="Gulp.js.ZIP" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Gulp.js.ZIP" />
         <item itemvalue="Gulp.js.ALL=&gt;compile" />
         <item itemvalue="Gulp.js.Scss=&gt;compile" />
-        <item itemvalue="Gulp.js.Watch css/html" />
-        <item itemvalue="Gulp.js.Js=&gt;merge" />
+        <item itemvalue="Gulp.js.dev:livereload" />
+        <item itemvalue="Gulp.js.Html=&gt;compile" />
       </list>
     </recent_temporary>
   </component>
@@ -206,12 +308,15 @@
       <workItem from="1547628462577" duration="13480000" />
       <workItem from="1547797703820" duration="14327000" />
       <workItem from="1576206688638" duration="30430000" />
-      <workItem from="1576550615166" duration="1332000" />
+      <workItem from="1576550615166" duration="2417000" />
+      <workItem from="1578109132556" duration="328000" />
+      <workItem from="1578109486087" duration="3000" />
+      <workItem from="1578110061107" duration="48066000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59569000" />
+    <option name="totallyTimeSpent" value="109051000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -223,23 +328,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="23" width="2470" height="1415" extended-state="0" />
+    <frame x="89" y="40" width="2488" height="1417" extended-state="0" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6896067" visible="true" weight="0.11800735" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.68673354" visible="true" weight="0.10417511" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Gulp" order="2" sideWeight="0.31039324" side_tool="true" visible="true" weight="0.11800735" />
+      <window_info id="Gulp" order="2" sideWeight="0.31326646" side_tool="true" visible="true" weight="0.10417511" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="npm" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49979582" weight="0.12244898" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.204" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49979582" weight="0.19849056" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.20377359" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3296" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32949308" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4993875" visible="true" weight="0.4618292" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4993875" visible="true" weight="0.32301888" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006125" side_tool="true" weight="0.21962264" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -251,90 +356,76 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/run/common/js/jquery.feight.js" />
-    <entry file="file://$PROJECT_DIR$/dev/lang/zh/common.yaml">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/dev/lang/zh/common.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/scss/scss_color_m.scss">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/dev/scss/scss_color_m.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/page/template/reload.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/ISC/isc-blockchain/run/index.html" />
     <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run/img/icon-1.png">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/run/img/icon-1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/run/img/pic-3.png">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/run/img/pic-3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/run/img/pic-2.png">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/run/img/pic-2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/run/img/pic-1.png">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/run/img/pic-1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/run/img/logo-white.png">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/run/img/logo-white.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/run/img/logo-black.png">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/run/img/logo-black.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/run/css/common.min.css">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/run/css/common.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
           <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/page/template/head_top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run/index.html">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/run/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run/zh/index.html">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/run/zh/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1791">
           <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/page/template/footer.html">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/dev/page/template/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-392">
           <caret line="232" column="22" lean-forward="true" selection-start-line="232" selection-start-column="22" selection-end-line="232" selection-end-column="22" />
@@ -345,68 +436,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run/js/index.min.js">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/run/js/index.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/page/template/head_link.html">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/dev/page/template/reload.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="43" />
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/js/index_s.js">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/dev/scss/common_m.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3661">
+          <caret line="212" selection-start-line="212" selection-end-line="223" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Blockchain/dev/js/index_s.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="24" column="47" lean-forward="true" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/page/html/index.html">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/dev/js/common_m.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1988">
-          <caret line="20" column="67" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="67" />
-          <folding>
-            <element signature="n#section#3;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#4;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#4;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#4;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#4;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#section#4;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#div#1;n#div#0;n#div#0;n#section#4;n#!!top" />
-            <element signature="n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#section#4;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/page/template/head_bottom.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/scss/common_m.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="862">
-          <caret line="109" column="20" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/js/common_m.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="123" column="48" selection-start-line="123" selection-start-column="34" selection-end-line="123" selection-end-column="48" />
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dev/scss/index.scss">
+    <entry file="file://$PROJECT_DIR$/../Blockchain/dev/page/template/head_bottom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="552" column="25" selection-start-line="552" selection-start-column="25" selection-end-line="552" selection-end-column="32" />
+        <state relative-caret-position="594">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Blockchain/dev/page/template/head_link.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Blockchain/dev/page/template/head_top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Blockchain/dev/page/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+          <folding>
+            <element signature="n#section#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+            <element signature="n#section#2;n#!!top" />
+            <element signature="n#section#4;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ol#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Blockchain/dev/scss/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="365" column="13" selection-start-line="365" selection-start-column="13" selection-end-line="365" selection-end-column="13" />
+          <folding>
+            <element signature="e#9#144#0" />
+            <element signature="e#1035#1041#0" />
+            <element signature="e#2076#3118#0" />
+            <element signature="e#3144#4294#0" />
+            <element signature="e#4389#4395#0" />
+            <element signature="e#5064#6105#0" />
+            <element signature="e#5818#6859#0" />
+            <element signature="e#6571#7298#0" />
+            <element signature="e#8655#8661#0" />
+            <element signature="e#10238#11778#0" />
+            <element signature="e#11822#13276#0" />
+            <element signature="e#8623#11029#0" />
+            <element signature="e#13067#16189#0" />
+            <element signature="e#11170#11176#0" />
+            <element signature="e#15416#15422#0" />
+            <element signature="e#15957#16002#0" />
+            <element signature="e#16024#16171#0" />
+            <element signature="e#16196#16273#0" />
+            <element signature="e#16305#16505#0" />
+            <element signature="e#16536#16766#0" />
+            <element signature="e#16799#16906#0" />
+            <element signature="e#16986#17052#0" />
+            <element signature="e#17147#17284#0" />
+            <element signature="e#17305#17464#0" />
+            <element signature="e#17486#17578#0" />
+            <element signature="e#17606#17649#0" />
+            <element signature="e#17804#17837#0" />
+            <element signature="e#17941#18030#0" />
+            <element signature="e#18084#18157#0" />
+            <element signature="e#21292#21438#0" />
+          </folding>
         </state>
       </provider>
     </entry>
