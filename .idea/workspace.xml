@@ -39,7 +39,7 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/../Blockchain/dev/scss/index.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="572">
@@ -76,6 +76,15 @@
                     <element signature="e#18084#18157#0" />
                     <element signature="e#21292#21438#0" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../Blockchain/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="792">
+                  <caret line="36" column="61" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="61" />
                 </state>
               </provider>
             </entry>
@@ -145,8 +154,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="89" />
-    <option name="y" value="40" />
+    <option name="x" value="71" />
+    <option name="y" value="23" />
     <option name="width" value="2488" />
     <option name="height" value="1417" />
   </component>
@@ -311,12 +320,12 @@
       <workItem from="1576550615166" duration="2417000" />
       <workItem from="1578109132556" duration="328000" />
       <workItem from="1578109486087" duration="3000" />
-      <workItem from="1578110061107" duration="48909000" />
+      <workItem from="1578110061107" duration="49505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109894000" />
+    <option name="totallyTimeSpent" value="110490000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,13 +381,6 @@
     </entry>
     <entry file="file://$USER_HOME$/ISC/isc-blockchain/run/index.html" />
     <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/../Blockchain/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Blockchain/run/img/icon-1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -545,6 +547,13 @@
             <element signature="e#18084#18157#0" />
             <element signature="e#21292#21438#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Blockchain/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="61" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="61" />
         </state>
       </provider>
     </entry>
